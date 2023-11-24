@@ -39,13 +39,11 @@ Versatile Java developer specializing in the creation of robust and scalable bac
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mrinalgautam1999](https://github.com/Mrinalgautam1999)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/Mrinalgautam1999)
 
 - 💬 Ask me about **Java and Spring Boot**
 
-- 📫 How to reach me **mmrinalgautam1999@gmail.com**
-
-- 📄 Know about my experiences [https://classroom.google.com/c/NjQwMjY2OTU2MDg3/a/NjQwMjY2OTU2MTA4/details](https://classroom.google.com/c/NjQwMjY2OTU2MDg3/a/NjQwMjY2OTU2MTA4/details)
+- 📫 How to reach me **[Email](mmrinalgautam1999@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
